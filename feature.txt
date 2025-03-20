@@ -1,0 +1,1 @@
+worked on an introductory lab with my partner on how to use git and various commands as well as pull requests 
